@@ -5,4 +5,9 @@ print("good")
 
 x=10
 y=20
+
+
+print(x+y)
+
 z=input("enter z value: ")
+
