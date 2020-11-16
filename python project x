@@ -2,3 +2,6 @@ print("welcome to calculator.")
 
 
 print("good")
+
+x=10
+y=20
